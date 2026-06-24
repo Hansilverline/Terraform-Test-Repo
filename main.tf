@@ -6,7 +6,7 @@ terraform {
     organization = "admingroup"
 
     workspaces {
-      name = "aws-searchnimport-test"
+      name = "Terraform-Test-Repo"
     }
   }
 
