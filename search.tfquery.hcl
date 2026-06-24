@@ -6,7 +6,7 @@ list "aws_instance" "unmanaged" {
 
     filter {
       name   = "tag:Project"
-      values = ["Searchnimport-Test"]
+      values = ["Searchnimport-Test2"]
     }
 
   }
